@@ -1,0 +1,39 @@
+[
+  [
+    {
+      "name": "Kobe",
+      "detail":"kobe 8-24",
+      "icon": "my.png"
+    }
+  ],
+  [
+    {
+      "name": "相册",
+      "icon": "album.png"
+    },
+    {
+      "name": "收藏",
+      "icon": "fav.png"
+    },
+    {
+      "name": "钱包",
+      "icon": "wallet.png"
+    },
+    {
+      "name": "卡包",
+      "icon": "card.png"
+    }
+  ],
+  [
+    {
+      "name": "表情",
+      "icon": "expression.png"
+    }
+  ], 
+ [
+    {
+      "name": "设置",
+      "icon": "setting.png"
+    }
+  ]
+]

@@ -1,0 +1,41 @@
+[
+  [
+    {
+      "name": "朋友圈",
+      "icon": "friend.png"
+    }
+  ],
+  [
+    {
+      "name": "扫一扫",
+      "icon": "scan.png"
+    },
+ {
+      "name": "摇一摇",
+      "icon": "shake.png"
+    }
+  ],
+  [
+    {
+      "name": "附件的人",
+      "icon": "near.png"
+    },
+ {
+      "name": "漂流瓶",
+      "icon": "bottle.png"
+    }
+  ], 
+ [
+    {
+      "name": "购物",
+      "icon": "shopping.png"
+    },
+ {
+      "name": "游戏",
+      "icon": "game.png"
+    }
+  ]
+
+
+
+]
